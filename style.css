@@ -1,0 +1,53 @@
+body {
+  background-color:#2e3035;
+  color:#5dbcd2;
+}
+
+h1 {
+  color:#c7c400;
+}
+
+h2 {
+  color:#b9adff;
+}
+
+h3 {
+  color:#52c1da;
+}
+
+h4 {
+  color:#67c073;
+}
+
+h5 {
+  color:#de87ca;
+}
+
+h6 {
+  color:#b4b4b4;
+}
+
+p {
+  background-color:#2e3035;
+  color:#5dbcd2;
+}
+
+a {
+  background-color:#2e3035;
+  color:#d669bc;
+}
+
+b {
+  background-color:#2e3035;
+  color:#9e8aff;
+  font-weight: bold;
+}
+
+i {
+  background-color:#2e3035;
+  color:#bac04f;
+}
+
+hr.new1 {
+  color:#5dbcd2;
+}
